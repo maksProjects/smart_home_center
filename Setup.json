@@ -1,0 +1,20 @@
+{
+	"main_settings" : [
+		{
+			"screen_w" : 1024,
+			"screen_h" : 768,
+			"fullscreen" : 0,
+			"fontcolor" :[255, 255, 255],
+			"lang" : "PL"
+		}
+	],
+	"weather_forecast" : [
+		{
+			"city" : "your city",
+			"lat" : "lattitude of your home",
+			"lon" : "longtitude of your home",
+			"units" : "metric",
+			"api_key" : "enter your own api key here, you can get it from openweathermap.org"
+		}
+	]
+}
